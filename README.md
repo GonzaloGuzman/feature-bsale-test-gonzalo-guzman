@@ -2,7 +2,7 @@
 
 <h2>API REST - BSALE - Gonzalo Guzman</h2>
 
-<p>Previamente se recomienta generar en DNS local test.gonzalo.cl al 127.0.0.1 o modificar este falor en las variables de entorno del proyecto por las que tu deseas agregar.</p>
+<p>Previamente se recomienta generar en DNS local <strong>test.gonzalo.cl</strong> al <strong>127.0.0.1</strong> o modificar este valor en las variables de entorno del proyecto por las que tu deseas agregar, en este caso la variable <strong>APP_URL</strong>.</p>
 
 <table>
   <tr>
