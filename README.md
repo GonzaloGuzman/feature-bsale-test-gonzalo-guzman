@@ -1,5 +1,6 @@
 # feature-bsale-test-gonzalo-guzman
 Test prueba
+Previamente se recomienta generar en DNS local test.gonzalo.cl al 127.0.0.1 o modificar este falor en las variables de entorno del proyecto por las que tu deseas agregar.
 
 <table>
   <tr>
