@@ -1,6 +1,6 @@
 # feature-bsale-test-gonzalo-guzman
 
-<h2>Test prueba</h2>
+<h2>API REST - BSALE - Gonzalo Guzman</h2>
 
 <p>Previamente se recomienta generar en DNS local test.gonzalo.cl al 127.0.0.1 o modificar este falor en las variables de entorno del proyecto por las que tu deseas agregar.</p>
 
@@ -25,3 +25,8 @@
     <td>Endpoint para filtrar productos</td>
   </tr>
 </table>
+
+<h2>Para iniciar el proyecto<h2>
+
+<p>Comando para partir el proyecto</p>
+<code>npm run start</code>
